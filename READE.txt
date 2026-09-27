@@ -1,0 +1,12 @@
+Tarea 5.2 – Creación de una página web responsiva con Bootstrap y CSS
+
+En esta tarea desarrollé una página web para DupeTec utilizando HTML, CSS y el framework Bootstrap. La página contiene tres secciones interconectadas: Inicio, Servicios y Contacto.
+
+Utilicé Bootstrap para crear una página responsiva que se adapta a diferentes tamaños de pantalla. También utilicé selectores de elementos, clases e ID, además de propiedades CSS y el modelo de caja mediante bordes, padding y márgenes.
+
+Se utilizaron componentes de Bootstrap como la barra de navegación, botones, tarjetas y formularios para crear una interfaz sencilla, organizada y funcional.
+
+El proyecto fue creado y editado utilizando Visual Studio Code, probado en el navegador y guardado en un repositorio de GitHub.
+
+Enlace del proyecto en GitHub:
+https://github.com/eduperoy9148/Tarea_5.2_Bootstrap
